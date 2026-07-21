@@ -1,0 +1,21 @@
+student_id,name,age,course,score
+1001,Alice Smith,22,Python,95
+1002,Bob Johnson,19,Data Science,82
+1003,Charlie Williams,24,Web Development,
+1004,David Brown,23,Machine Learning,91
+1005,Eva Davis,27,Python,65
+1006,Frank Miller,20,Data Science,88
+1007,Grace Wilson,25,Web Development,72
+1008,Henry Moore,21,Machine Learning,
+1009,Ivy Taylor,26,Python,79
+1010,Jack Anderson,18,Data Science,93
+1011,Kate Thomas,28,Web Development,68
+1012,Leo Jackson,22,Machine Learning,89
+1013,Mia White,20,Python,91
+1014,Noah Harris,24,Data Science,75
+1015,Olivia Martin,19,Web Development,83
+1016,Peter Thompson,27,Machine Learning,67
+1017,Quinn Lewis,23,Python,86
+1018,Ruby Clark,21,Data Science,92
+1019,Sam Walker,25,Web Development,77
+1020,Tina Green,20,Machine Learning,90
